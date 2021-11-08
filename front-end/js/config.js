@@ -2,4 +2,4 @@
 // CONFIG
 // =============================================================
 
-var backendURL = '/back-end';
+var backendURL = '/simple-php-crud/back-end';
